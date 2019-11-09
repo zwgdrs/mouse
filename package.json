@@ -1,0 +1,15 @@
+{
+  "name": "@zw/mouse",
+  "version": "1.0.0",
+  "description": "一个打地鼠组件示例",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zw",
+  "license": "ISC"
+}
